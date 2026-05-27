@@ -223,6 +223,19 @@ const visibleHoldings =
       <h1 className="title">
         Tax Loss Harvesting
       </h1>
+      <a
+  href="https://github.com/Nookalasaimeghana23/tax-loss-harvesting-project"
+
+  target="_blank"
+>
+
+  <button className="github-btn">
+
+    View Source Code
+
+  </button>
+
+</a>
 
       <div className="cards-container">
 
